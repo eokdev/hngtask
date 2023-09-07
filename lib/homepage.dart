@@ -39,6 +39,9 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             const Text(
               'Olorunshola Emmanuel',
+              style: TextStyle(
+                fontWeight: FontWeight.bold
+              ),
             ),
             const SizedBox(
               height: 10,
